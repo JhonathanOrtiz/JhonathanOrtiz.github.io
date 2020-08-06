@@ -53,19 +53,41 @@ news: Skills
         
     
     posts:
-        time: Proeficient
-        - item: Python
-        - item: Tensorflow/Keras
-        - item: Pytorch
-        - item: Scikit-Learn
-        - item: Numpy
-        - item: Spacy
-        - item: NLTK
-       time: Moderate
-        - item: Matlab
-        - item: C/C++
-        - item: Git / GitHub
-        - item: Linux
+       - time: Proeficient
+          title: Python
+
+        - time: Proeficient
+          title: Tensorflow/Keras
+
+        - time: Proeficient
+          title: Pytorch
+
+        - time: Proeficient
+          title: Pandas
+
+        - time: Proeficient
+          title: Sckit-Learn
+
+        - time: Proeficient
+          title: NLTK
+
+        - time: Proeficient
+          title:SpaCy
+
+        - time: Moderate
+          title: Git/GitHub
+
+        - time: Moderate
+          title: MATLAB
+
+        - time: Moderate
+          title: C/C++
+          
+        - time: Moderate
+          title: Arduino Controller
+
+        - time: Moderate
+          title: Linux
        
 education:
     - degree: Applied Scientists Intern at Amazon AWS
