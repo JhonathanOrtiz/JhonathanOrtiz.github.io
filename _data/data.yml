@@ -47,9 +47,9 @@ career-profile:
       Electronic Engineer applied to Automation and Control senior student, actually i'm learning to develop Natural Laguage Processing algorithm applied to several study cases with researcher on multimodal learning as mentor and looking for an intern position and thus improve my skills. 
       Proeficient in Python, Machine Learning and/Deep Learning and frameworks such as Scikit-Learn, TensorFlow and Pytorch.   
       
-news: 
-    title: Skills
-    intro: |
+#news: 
+ #   title: Skills
+  #  intro: |
         
     
 #    posts:
@@ -90,83 +90,83 @@ news:
         #  title: Linux
        
 education:
-    - degree: Applied Scientists Intern at Amazon AWS
-      university: P. Perona, Pasadena, CA, USA
-      time: 2019 - current
+    - degree: Electronic Enginner applied to Automation
+      university: Universidad Rafael Bellso Chacin (URBE) Venezuela
+      time: 2016 - current
       details: |
      
-    - degree: PhD in Computer vision and Machine learning
-      university: Heidelberg University
-      time: 2015 - current
-      details: |
+   # - degree: PhD in Computer vision and Machine learning
+   #   university: Heidelberg University
+   #   time: 2015 - current
+   #   details: |
 
-    - degree: Internship (Master Thesis)
-      university: Tobii
-      time: 2014 - 2015
-      details: |
+   # - degree: Internship (Master Thesis)
+   #   university: Tobii
+   #   time: 2014 - 2015
+   #   details: |
 
-    - degree: Master Degree
-      university: KTH (Stockholm, Sweden)
-      time: 2013 - 2015
-      details: |
+   # - degree: Master Degree
+   #   university: KTH (Stockholm, Sweden)
+   #   time: 2013 - 2015
+   #   details: |
     
-    - degree: Master Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2012 - 2015
-      details: |
+   # - degree: Master Degree
+   #   university: Politecnico di Torino (Torino, Italy)
+   #   time: 2012 - 2015
+   #   details: |
     
-    - degree: Bachelor Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2009 - 2012
-      details: |
+   # - degree: Bachelor Degree
+   #   university: Politecnico di Torino (Torino, Italy)
+   #   time: 2009 - 2012
+   #   details: |
 
 
-educationcomplete:
-    - degree: Applied Scientists Intern at Amazon AWS
-      university: P. Perona, Pasadena, CA, USA
-      time: 2019 - current
-      details: |
+#educationcomplete:
+ #   - degree: Applied Scientists Intern at Amazon AWS
+ #    university: P. Perona, Pasadena, CA, USA
+ #     time: 2019 - current
+ #     details: |
 
-    - degree: PhD in Computer vision and Machine learning
-      university: Heidelberg University
-      time: 2015 - current
-      details: |
-        Unsupervised deep learning for automatic behavior analysis
+  #  - degree: PhD in Computer vision and Machine learning
+  #    university: Heidelberg University
+  #    time: 2015 - current
+  #    details: |
+  #      Unsupervised deep learning for automatic behavior analysis
 
-          - Unsupervised learning
-          - Representaion learning
-          - Automatic Behavior Analysis
+  #        - Unsupervised learning
+  #        - Representaion learning
+  #        - Automatic Behavior Analysis
 
-    - degree: Internship (Master Thesis)
-      university: Tobii
-      time: 2014 - 2015
-      details: |
-        Master thesis topic Hand gesture classification by Deep learning using infrared camera 
+  #  - degree: Internship (Master Thesis)
+  #    university: Tobii
+  #    time: 2014 - 2015
+  #    details: |
+  #      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
 
-          - Deep learning
-          - Hand Gesture
+  #       - Deep learning
+  #        - Hand Gesture
 
-    - degree: Master Degree
-      university: KTH (Stockholm, Sweden)
-      time: 2013 - 2015
-      details: |
-        Master degree in Computer Science and Artificial Intelligence
+  #  - degree: Master Degree
+  #    university: KTH (Stockholm, Sweden)
+  #    time: 2013 - 2015
+  #    details: |
+  #      Master degree in Computer Science and Artificial Intelligence
 
-          - Artificial Intelligence
-          - Machine Learning
-          - Computer Vision
+  #        - Artificial Intelligence
+  #        - Machine Learning
+  #        - Computer Vision
     
-    - degree: Master Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2012 - 2015
-      details: |
-        Master degree in Software Engineering
+  #  - degree: Master Degree
+  #    university: Politecnico di Torino (Torino, Italy)
+  #    time: 2012 - 2015
+  #    details: |
+  #      Master degree in Software Engineering
     
-    - degree: Bachelor Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2009 - 2012
-      details: |
-        Master degree in Computer Engineering
+  #  - degree: Bachelor Degree
+  #    university: Politecnico di Torino (Torino, Italy)
+  #    time: 2009 - 2012
+  #    details: |
+  #      Master degree in Computer Engineering
 
 
 #experiences:
@@ -242,42 +242,42 @@ educationcomplete:
         #tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: Articles
     intro: |
       
 
     papers:
-      - title: "Rethinking Zero-shot Video Classification: End-to-end Training for Realistic Applications"
-        authors: B. Brattoli, J. Tighe, F. Zhdanov, P. Perona, K. Chalupka
-        conference: CVPR, 2020
+      - title: "Generative Adversarial Netword (Foundations)"
+        authors: J. Ortiz
+     #   conference: CVPR, 2020
         
-      - title: "MIC: Mining Interclass Characteristics for Improved Metric Learning"
-        authors: B. Brattoli*, K. Roth*, B. Ommer
-        conference: ICCV, 2019
+      - title: "Neural Neworks for sequences (Foundations)"
+        authors: J. Ortiz
+    #    conference: ICCV, 2019
 
-      - title: "Improving Spatiotemporal Self-Supervision by Deep Reinforcement Learning"
-        authors: B. Brattoli*, U. Buechler*, B. Ommer
-        conference: ECCV, 2018
+    #  - title: "Improving Spatiotemporal Self-Supervision by Deep Reinforcement Learning"
+    #    authors: B. Brattoli*, U. Buechler*, B. Ommer
+    #    conference: ECCV, 2018
 
-      - title: "LSTM Self-Supervision for Detailed Behavior Analysis"
-        authors: B. Brattoli*, U. Buechler*, A. Wahl, M. Schwab, B. Ommer
-        conference: CVPR, 2017
+    #  - title: "LSTM Self-Supervision for Detailed Behavior Analysis"
+    #    authors: B. Brattoli*, U. Buechler*, A. Wahl, M. Schwab, B. Ommer
+    #    conference: CVPR, 2017
 
-      - title: "Cross and Learn: Cross-Modal Self-Supervision"
-        authors: N. Sayer, B. Brattoli, B. Ommer
-        conference: oral at GCPR, 2018
+    #  - title: "Cross and Learn: Cross-Modal Self-Supervision"
+    #    authors: N. Sayer, B. Brattoli, B. Ommer
+    #    conference: oral at GCPR, 2018
 
-      - title: "X-GAN: Improving Generative Adversarial Networks with ConveX Combinations"
-        authors: O. Blum, B. Brattoli, B. Ommer
-        conference: oral at GCPR, 2018
+    #  - title: "X-GAN: Improving Generative Adversarial Networks with ConveX Combinations"
+    #    authors: O. Blum, B. Brattoli, B. Ommer
+    #    conference: oral at GCPR, 2018
 
-      - title: "Optogenetically stimulating intact rat corticospinal tract post-stroke restores motor control through regionalized functional circuit formation"
-        authors: A. S. Wahl*, U. Büchler*, A. Brändli, B. Brattoli, S. Musall, H. Kasper, B. V. Ineichen, F. Helmchen, B. Ommer & M. E. Schwab
-        conference: "Nature Communications, 2017"
+    #  - title: "Optogenetically stimulating intact rat corticospinal tract post-stroke restores motor control through regionalized functional circuit formation"
+    #    authors: A. S. Wahl*, U. Büchler*, A. Brändli, B. Brattoli, S. Musall, H. Kasper, B. V. Ineichen, F. Helmchen, B. Ommer & M. E. Schwab
+    #    conference: "Nature Communications, 2017"
         
-      - title: "Early reduced behavioral activity induced by large strokes affects the efficiency of enriched environment in rats"
-        authors: A. S. Wahl, Erlebach, E, B. Brattoli, U. Büchler, J. Kaiser, V.B. Ineichen, A.C. Mosberger, S. Schneeberger, S. Imobersteg, M. Wieckhorst, M. Stirn, A. Schroeter, B. Ommer, M.E. Schwab
-        conference: "Journal of Cerebral Blood Flow & Metabolism, 2018"
+    #  - title: "Early reduced behavioral activity induced by large strokes affects the efficiency of enriched environment in rats"
+    #    authors: A. S. Wahl, Erlebach, E, B. Brattoli, U. Büchler, J. Kaiser, V.B. Ineichen, A.C. Mosberger, S. Schneeberger, S. Imobersteg, M. Wieckhorst, M. Stirn, A. Schroeter, B. Ommer, M.E. Schwab
+    #    conference: "Journal of Cerebral Blood Flow & Metabolism, 2018"
 
 skills:
     title: Skills &amp; Proficiency
