@@ -4,11 +4,11 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Jhonathan Ortiz
-    tagline: Natural Language Processing and Machine Learning Student
+    tagline: Natural Language Processing and Machine Learning student
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -19,7 +19,7 @@ sidebar:
     github: JhonathanOrtiz
     gitlab:
     bitbucket:
-    twitter: '@jhonthnortizh'
+    twitter: '@jhonthanortizh'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -30,192 +30,136 @@ sidebar:
 
       - idiom: Spanish
         level: Native
-        
-    projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - idiom: 
+        level: 
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-     
- 
     interests:
+      - item: Deep Learning
+        link:
+
       - item: Natural Language Processing
         link:
 
-      - item: Language Modeling
-        link:
-
-      - item: Language Parsing
+      - item: Language Modeling 
+      
         link:
 
 career-profile:
-    title: Profile
+    title: Career Profile
     summary: |
-      Electronic Engineer applied to Automation and Control senior student, actually i'm learning to develop Natural Laguage Processing algorithm applied to several study cases with researcher on multimodal learning as mentor and looking for an intern position and thus improve my skills. 
-      Proeficient in Python, Machine Learning and/Deep Learning and frameworks such as Scikit-Learn, TensorFlow and Pytorch.   
- skills:
-    title: Skills &amp; Proficiency
-    toolset:
-      - name: Python
-        level: 100%
-
-      - name: PyTorch
-        level: 90%
-
-      - name: Tensorflow
-        level: 70%
-
-      - name: Matlab
-        level: 25%
-
-      - name: C/C++
-        level: 25% 
- 
- 
- 
-#news: 
- #   title: Skills
-  #  intro: |
+      Electronic Engineer applied to Automation and Control senior student, actually i’m learning to develop Natural Laguage Processing algorithm applied to several study cases with researcher on multimodal learning as mentor and looking for an intern position and thus improve my skills. Proeficient in Python, Machine Learning and/Deep Learning and frameworks such as Scikit-Learn, TensorFlow and Pytorch.
+      
+news:
+    title: News
+    intro: |
         
     
-#    posts:
- #      - time: Proeficient
-  #        title: Python
+    posts:
+        - time: June 2020
+          title: Outstanding Reviewer at CVPR 2020
 
-   #     - time: Proeficient
-    #      title: Tensorflow/Keras
-
-     #   - time: Proeficient
-      #    title: Pytorch
-
-       # - time: Proeficient
-        # title: Pandas
-
-        #- time: Proeficient
-         # title: Sckit-Learn
-
-       # - time: Proeficient
-          #title: NLTK
-
-        #- time: Proeficient
-         # title:SpaCy
-
-        #- time: Moderate
-         # title: Git/GitHub
-
-        #- time: Moderate
-         # title: MATLAB
-
-       # - time: Moderate
-        #  title: C/C++
+        - time: June 2020
+          title: Article on Amazon Science https://www.amazon.science/blog/video-classifiers-learn-to-recognize-actions-they've-never-seen
+        
+        - time: February 2020
+          title: The work done during my internship was accepted as publication at CVPR 2020
           
-       # - time: Moderate
-        #  title: Arduino Controller
+        - time: July 2019
+          title: Begin Amazon AWS intership with P.Perona in Pasadena, CA
+          
+        - time: July 2019
+          title: One paper accepted at ICCV19
+          
+        - time: January 2019
+          title: Selected as reviewer for ICCV19
+        
+        - time: December 2018
+          title: Selected as reviewer for CVPR19
+        
+        - time: Sptember 2018
+          title: Two papers accepted as orals at GCPR (German Conference for Patter Recognition) as a result of two master thesis which I supervised
+        
+        - time: July 2018
+          title: Attending the International Summer School for Computer Vision (ICVSS) in Sicily, Italy
+        
+        - time: 2018
+          title: Paper accepted as poster at ECCV18 in Munich, Germany
+        
+        - time: 2017
+          title: Attending the Workshop on Behavior Analysis (BAFA, Better Analysis Fewer Animals) in Utrecht, Netherlands
+        
+        - time: 2017
+          title: Paper accepted as poster at CVPR17 in Honolulu, Hawaii
 
-       # - time: Moderate
-        #  title: Linux
-       
 education:
-    - degree: Electronic Enginner applied to Automation
-      university: Universidad Rafael Bellso Chacin (URBE) Venezuela
-      time: 2016 - current
+    - degree: Applied Scientists Intern at Amazon AWS
+      university: P. Perona, Pasadena, CA, USA
+      time: 2019 - current
       details: |
      
-   # - degree: PhD in Computer vision and Machine learning
-   #   university: Heidelberg University
-   #   time: 2015 - current
-   #   details: |
-
-   # - degree: Internship (Master Thesis)
-   #   university: Tobii
-   #   time: 2014 - 2015
-   #   details: |
-
-   # - degree: Master Degree
-   #   university: KTH (Stockholm, Sweden)
-   #   time: 2013 - 2015
-   #   details: |
+    - degree: PhD in Computer vision and Machine learning
+      university: Heidelberg University
+      time: 2015 - current
+      details: |
+    - degree: Internship (Master Thesis)
+      university: Tobii
+      time: 2014 - 2015
+      details: |
+    - degree: Master Degree
+      university: KTH (Stockholm, Sweden)
+      time: 2013 - 2015
+      details: |
     
-   # - degree: Master Degree
-   #   university: Politecnico di Torino (Torino, Italy)
-   #   time: 2012 - 2015
-   #   details: |
+    - degree: Master Degree
+      university: Politecnico di Torino (Torino, Italy)
+      time: 2012 - 2015
+      details: |
     
-   # - degree: Bachelor Degree
-   #   university: Politecnico di Torino (Torino, Italy)
-   #   time: 2009 - 2012
-   #   details: |
-
-
-#educationcomplete:
- #   - degree: Applied Scientists Intern at Amazon AWS
- #    university: P. Perona, Pasadena, CA, USA
- #     time: 2019 - current
- #     details: |
-
-  #  - degree: PhD in Computer vision and Machine learning
-  #    university: Heidelberg University
-  #    time: 2015 - current
-  #    details: |
-  #      Unsupervised deep learning for automatic behavior analysis
-
-  #        - Unsupervised learning
-  #        - Representaion learning
-  #        - Automatic Behavior Analysis
-
-  #  - degree: Internship (Master Thesis)
-  #    university: Tobii
-  #    time: 2014 - 2015
-  #    details: |
-  #      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-  #       - Deep learning
-  #        - Hand Gesture
-
-  #  - degree: Master Degree
-  #    university: KTH (Stockholm, Sweden)
-  #    time: 2013 - 2015
-  #    details: |
-  #      Master degree in Computer Science and Artificial Intelligence
-
-  #        - Artificial Intelligence
-  #        - Machine Learning
-  #        - Computer Vision
+    - degree: Bachelor Degree
+      university: Politecnico di Torino (Torino, Italy)
+      time: 2009 - 2012
+      details: |
+educationcomplete:
+    - degree: Applied Scientists Intern at Amazon AWS
+      university: P. Perona, Pasadena, CA, USA
+      time: 2019 - current
+      details: |
+    - degree: PhD in Computer vision and Machine learning
+      university: Heidelberg University
+      time: 2015 - current
+      details: |
+        Unsupervised deep learning for automatic behavior analysis
+          - Unsupervised learning
+          - Representaion learning
+          - Automatic Behavior Analysis
+    - degree: Internship (Master Thesis)
+      university: Tobii
+      time: 2014 - 2015
+      details: |
+        Master thesis topic Hand gesture classification by Deep learning using infrared camera 
+          - Deep learning
+          - Hand Gesture
+    - degree: Master Degree
+      university: KTH (Stockholm, Sweden)
+      time: 2013 - 2015
+      details: |
+        Master degree in Computer Science and Artificial Intelligence
+          - Artificial Intelligence
+          - Machine Learning
+          - Computer Vision
     
-  #  - degree: Master Degree
-  #    university: Politecnico di Torino (Torino, Italy)
-  #    time: 2012 - 2015
-  #    details: |
-  #      Master degree in Software Engineering
+    - degree: Master Degree
+      university: Politecnico di Torino (Torino, Italy)
+      time: 2012 - 2015
+      details: |
+        Master degree in Software Engineering
     
-  #  - degree: Bachelor Degree
-  #    university: Politecnico di Torino (Torino, Italy)
-  #    time: 2009 - 2012
-  #    details: |
-  #      Master degree in Computer Engineering
-
-
+    - degree: Bachelor Degree
+      university: Politecnico di Torino (Torino, Italy)
+      time: 2009 - 2012
+      details: |
+        Master degree in Computer Engineering
 #experiences:
     #- role: Lead Developer
       #time: 2015 - Present
@@ -292,39 +236,38 @@ publications:
     title: Articles
     intro: |
       
-
     papers:
-      - title: "Generative Adversarial Netword (Foundations)"
+      - title: "Generative Neural Networks (Foundations)"
         authors: J. Ortiz
-     #   conference: CVPR, 2020
+        #conference: CVPR, 2020
         
-      - title: "Neural Neworks for sequences (Foundations)"
+      - title: "Neural Neworks for sequences data type (Foundations)"
         authors: J. Ortiz
-    #    conference: ICCV, 2019
+        #conference: ICCV, 2019
 
-    #  - title: "Improving Spatiotemporal Self-Supervision by Deep Reinforcement Learning"
-    #    authors: B. Brattoli*, U. Buechler*, B. Ommer
-    #    conference: ECCV, 2018
+      - title: "Math Word Problems Dataset (Spanish Version)"
+        authors: J. Ortiz
+        conference: ECCV, 2018
 
-    #  - title: "LSTM Self-Supervision for Detailed Behavior Analysis"
-    #    authors: B. Brattoli*, U. Buechler*, A. Wahl, M. Schwab, B. Ommer
-    #    conference: CVPR, 2017
+     # - title: "LSTM Self-Supervision for Detailed Behavior Analysis"
+     #   authors: B. Brattoli*, U. Buechler*, A. Wahl, M. Schwab, B. Ommer
+     #   conference: CVPR, 2017
 
-    #  - title: "Cross and Learn: Cross-Modal Self-Supervision"
-    #    authors: N. Sayer, B. Brattoli, B. Ommer
-    #    conference: oral at GCPR, 2018
+     # - title: "Cross and Learn: Cross-Modal Self-Supervision"
+     #   authors: N. Sayer, B. Brattoli, B. Ommer
+     #   conference: oral at GCPR, 2018
 
-    #  - title: "X-GAN: Improving Generative Adversarial Networks with ConveX Combinations"
-    #    authors: O. Blum, B. Brattoli, B. Ommer
-    #    conference: oral at GCPR, 2018
+     # - title: "X-GAN: Improving Generative Adversarial Networks with ConveX Combinations"
+     #   authors: O. Blum, B. Brattoli, B. Ommer
+     #   conference: oral at GCPR, 2018
 
-    #  - title: "Optogenetically stimulating intact rat corticospinal tract post-stroke restores motor control through regionalized functional circuit formation"
-    #    authors: A. S. Wahl*, U. Büchler*, A. Brändli, B. Brattoli, S. Musall, H. Kasper, B. V. Ineichen, F. Helmchen, B. Ommer & M. E. Schwab
-    #    conference: "Nature Communications, 2017"
+     # - title: "Optogenetically stimulating intact rat corticospinal tract post-stroke restores motor control through regionalized functional circuit formation"
+     #   authors: A. S. Wahl*, U. Büchler*, A. Brändli, B. Brattoli, S. Musall, H. Kasper, B. V. Ineichen, F. Helmchen, B. Ommer & M. E. Schwab
+     #   conference: "Nature Communications, 2017"
         
-    #  - title: "Early reduced behavioral activity induced by large strokes affects the efficiency of enriched environment in rats"
-    #    authors: A. S. Wahl, Erlebach, E, B. Brattoli, U. Büchler, J. Kaiser, V.B. Ineichen, A.C. Mosberger, S. Schneeberger, S. Imobersteg, M. Wieckhorst, M. Stirn, A. Schroeter, B. Ommer, M.E. Schwab
-    #    conference: "Journal of Cerebral Blood Flow & Metabolism, 2018"
+     # - title: "Early reduced behavioral activity induced by large strokes affects the efficiency of enriched environment in rats"
+     #   authors: A. S. Wahl, Erlebach, E, B. Brattoli, U. Büchler, J. Kaiser, V.B. Ineichen, A.C. Mosberger, S. Schneeberger, S. Imobersteg, M. Wieckhorst, M. Stirn, A. Schroeter, B. Ommer, M.E. Schwab
+     #   conference: "Journal of Cerebral Blood Flow & Metabolism, 2018"
 
 skills:
     title: Skills &amp; Proficiency
