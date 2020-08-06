@@ -58,25 +58,7 @@ sidebar:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
      
-    skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python
-        level: 100%
-
-      - name: PyTorch
-        level: 90%
-
-      - name: Tensorflow
-        level: 70%
-
-      - name: Matlab
-        level: 25%
-
-      - name: C/C++
-        level: 25% 
-
+ 
     interests:
       - item: Natural Language Processing
         link:
@@ -92,7 +74,27 @@ career-profile:
     summary: |
       Electronic Engineer applied to Automation and Control senior student, actually i'm learning to develop Natural Laguage Processing algorithm applied to several study cases with researcher on multimodal learning as mentor and looking for an intern position and thus improve my skills. 
       Proeficient in Python, Machine Learning and/Deep Learning and frameworks such as Scikit-Learn, TensorFlow and Pytorch.   
-      
+ 
+ skills:
+    title: Skills &amp; Proficiency
+    toolset:
+      - name: Python
+        level: 100%
+
+      - name: PyTorch
+        level: 90%
+
+      - name: Tensorflow
+        level: 70%
+
+      - name: Matlab
+        level: 25%
+
+      - name: C/C++
+        level: 25% 
+ 
+ 
+ 
 #news: 
  #   title: Skills
   #  intro: |
