@@ -31,10 +31,7 @@ sidebar:
         level: Intermedate
 
       - idiom: Spanish
-        level: Native
-
-      - idiom: 
-        level: 
+        level: Native 
 
     interests:
       - item: Deep Learning
@@ -52,116 +49,117 @@ career-profile:
     summary: |
       Electronic Engineer applied to Automation and Control senior student, actually i’m learning to develop Natural Laguage Processing algorithm applied to several study cases with researcher on multimodal learning as mentor and looking for an intern position and thus improve my skills. Proeficient in Python, Machine Learning and/Deep Learning and frameworks such as Scikit-Learn, TensorFlow and Pytorch.
       
-news:
-    title: News
-    intro: |
-        
-    
-    posts:
-        - time: June 2020
-          title: Outstanding Reviewer at CVPR 2020
+#news:
+#    title: News
+#    intro: |
+#        
+#    
+#    posts:
+#        - time: June 2020
+#          title: Outstanding Reviewer at CVPR 2020
 
-        - time: June 2020
-          title: Article on Amazon Science https://www.amazon.science/blog/video-classifiers-learn-to-recognize-actions-they've-never-seen
+#        - time: June 2020
+#          title: Article on Amazon Science https://www.amazon.science/blog/video-classifiers-learn-to-recognize-actions-they've-never-seen
         
-        - time: February 2020
-          title: The work done during my internship was accepted as publication at CVPR 2020
+#        - time: February 2020
+#          title: The work done during my internship was accepted as publication at CVPR 2020
           
-        - time: July 2019
-          title: Begin Amazon AWS intership with P.Perona in Pasadena, CA
+#        - time: July 2019
+#          title: Begin Amazon AWS intership with P.Perona in Pasadena, CA
           
-        - time: July 2019
-          title: One paper accepted at ICCV19
+#        - time: July 2019
+#          title: One paper accepted at ICCV19
           
-        - time: January 2019
-          title: Selected as reviewer for ICCV19
+#        - time: January 2019
+#          title: Selected as reviewer for ICCV19
         
-        - time: December 2018
-          title: Selected as reviewer for CVPR19
+#        - time: December 2018
+#          title: Selected as reviewer for CVPR19
         
-        - time: Sptember 2018
-          title: Two papers accepted as orals at GCPR (German Conference for Patter Recognition) as a result of two master thesis which I supervised
+#        - time: Sptember 2018
+#          title: Two papers accepted as orals at GCPR (German Conference for Patter Recognition) as a result of two master thesis which I supervised
         
-        - time: July 2018
-          title: Attending the International Summer School for Computer Vision (ICVSS) in Sicily, Italy
+#        - time: July 2018
+#          title: Attending the International Summer School for Computer Vision (ICVSS) in Sicily, Italy
         
-        - time: 2018
-          title: Paper accepted as poster at ECCV18 in Munich, Germany
+#        - time: 2018
+#          title: Paper accepted as poster at ECCV18 in Munich, Germany
         
-        - time: 2017
-          title: Attending the Workshop on Behavior Analysis (BAFA, Better Analysis Fewer Animals) in Utrecht, Netherlands
+#        - time: 2017
+#          title: Attending the Workshop on Behavior Analysis (BAFA, Better Analysis Fewer Animals) in Utrecht, Netherlands
         
-        - time: 2017
-          title: Paper accepted as poster at CVPR17 in Honolulu, Hawaii
+#        - time: 2017
+#          title: Paper accepted as poster at CVPR17 in Honolulu, Hawaii
 
 education:
-    - degree: Applied Scientists Intern at Amazon AWS
-      university: P. Perona, Pasadena, CA, USA
-      time: 2019 - current
+    - degree: Electronic Enginnering applied to Automation and Robotics
+      university: Rafael Belloso Chacin Unversity (URBE) Venezuela
+      time: 2016 - Current
       details: |
      
-    - degree: PhD in Computer vision and Machine learning
-      university: Heidelberg University
-      time: 2015 - current
-      details: |
-    - degree: Internship (Master Thesis)
-      university: Tobii
-      time: 2014 - 2015
-      details: |
-    - degree: Master Degree
-      university: KTH (Stockholm, Sweden)
-      time: 2013 - 2015
-      details: |
+#    - degree: Deep Learning with Pytorch Course 
+#      university: freecodecamp.org & Jovia.ml
+#      time: 2020
+#      details: Course from zero to GANs
+#    - degree: Internship (Master Thesis)
+#      university: Tobii
+#      time: 2014 - 2015
+#      details: |
+#    - degree: Master Degree
+#      university: KTH (Stockholm, Sweden)
+#      time: 2013 - 2015
+#      details: |
     
-    - degree: Master Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2012 - 2015
-      details: |
+#    - degree: Master Degree
+#      university: Politecnico di Torino (Torino, Italy)
+#      time: 2012 - 2015
+#      details: |
     
-    - degree: Bachelor Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2009 - 2012
-      details: |
-educationcomplete:
-    - degree: Applied Scientists Intern at Amazon AWS
-      university: P. Perona, Pasadena, CA, USA
-      time: 2019 - current
-      details: |
-    - degree: PhD in Computer vision and Machine learning
-      university: Heidelberg University
-      time: 2015 - current
-      details: |
-        Unsupervised deep learning for automatic behavior analysis
-          - Unsupervised learning
-          - Representaion learning
-          - Automatic Behavior Analysis
-    - degree: Internship (Master Thesis)
-      university: Tobii
-      time: 2014 - 2015
-      details: |
-        Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-          - Deep learning
-          - Hand Gesture
-    - degree: Master Degree
-      university: KTH (Stockholm, Sweden)
-      time: 2013 - 2015
-      details: |
-        Master degree in Computer Science and Artificial Intelligence
-          - Artificial Intelligence
-          - Machine Learning
-          - Computer Vision
+#    - degree: Bachelor Degree
+#      university: Politecnico di Torino (Torino, Italy)
+#      time: 2009 - 2012
+#      details: |
+      
+#educationcomplete:
+#    - degree: Applied Scientists Intern at Amazon AWS
+#      university: P. Perona, Pasadena, CA, USA
+#      time: 2019 - current
+#      details: |
+#    - degree: PhD in Computer vision and Machine learning
+#      university: Heidelberg University
+#      time: 2015 - current
+#      details: |
+#        Unsupervised deep learning for automatic behavior analysis
+#          - Unsupervised learning
+#          - Representaion learning
+#          - Automatic Behavior Analysis
+#    - degree: Internship (Master Thesis)
+#      university: Tobii
+#      time: 2014 - 2015
+#      details: |
+#        Master thesis topic Hand gesture classification by Deep learning using infrared camera 
+#          - Deep learning
+#          - Hand Gesture
+#    - degree: Master Degree
+#      university: KTH (Stockholm, Sweden)
+#      time: 2013 - 2015
+#      details: |
+#        Master degree in Computer Science and Artificial Intelligence
+#          - Artificial Intelligence
+#          - Machine Learning
+#          - Computer Vision
     
-    - degree: Master Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2012 - 2015
-      details: |
-        Master degree in Software Engineering
+#    - degree: Master Degree
+#      university: Politecnico di Torino (Torino, Italy)
+#      time: 2012 - 2015
+#      details: |
+#        Master degree in Software Engineering
     
-    - degree: Bachelor Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2009 - 2012
-      details: |
-        Master degree in Computer Engineering
+#    - degree: Bachelor Degree
+#      university: Politecnico di Torino (Torino, Italy)
+#      time: 2009 - 2012
+#      details: |
+#        Master degree in Computer Engineering
 #experiences:
     #- role: Lead Developer
       #time: 2015 - Present
@@ -214,25 +212,25 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
+      - title: Deep Q Network
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "DQN algorithm implementation for an agent that learn to play Space Invaders."
 
-      - title: DevStudio
+      - title: Pix2Pix
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Translation Image-Image"
 
-      - title: Tempo
+      - title: Natural Language Processing
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Notebook Series About NLP"
 
-      - title: Atom
+      - title: Algebra Series
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Notebook series about algebra from geometric viewpoint implemented and vizualized"
 
-      - title: Delta
+      - title: Math word Problems
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "SeqSeq implementation for math words problems"
 
 publications:
     title: Articles
