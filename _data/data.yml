@@ -12,36 +12,36 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: biagio.brattoli@gmail.com
-    phone: 
+    email: jhonathanortizh@gmail.com
+    phone: +58 4162655779
     website: bbrattoli.github.io/publications/ #do not add http://
-    linkedin: biagiobrattoli
-    github: bbrattoli
+    linkedin: jhonathanortizh
+    github: JhonathanOrtiz
     gitlab:
     bitbucket:
-    twitter: '@BiagioBrattoli'
+    twitter: '@JhonthanOrtiz'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
-        level: Fluent
+        level: Intermedate
 
-      - idiom: Italian
+      - idiom: Spanish
         level: Native
 
-      - idiom: German
-        level: Colloquial
+      - idiom: 
+        level: 
 
     interests:
-      - item: Guitar
+      - item: Learn
         link:
 
-      - item: Basketball
+      - item: Learn
         link:
 
-      - item: Biking
+      - item: Learn
         link:
 
 career-profile:
@@ -294,16 +294,13 @@ skills:
         level: 90%
 
       - name: Tensorflow
-        level: 60%
-
-      - name: Caffe
-        level: 80%
+        level: 70%
 
       - name: Matlab
-        level: 90%
+        level: 25%
 
       - name: C/C++
-        level: 75%
+        level: 25%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
