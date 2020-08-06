@@ -23,6 +23,8 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
+    skils:
+        title: Skill and Proficiency
 
     languages:
       - idiom: English
