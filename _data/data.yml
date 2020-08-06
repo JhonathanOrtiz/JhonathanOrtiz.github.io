@@ -52,42 +52,42 @@ news:
     intro: |
         
     
-    posts:
-       - time: Proeficient
-          title: Python
+#    posts:
+ #      - time: Proeficient
+  #        title: Python
 
-        - time: Proeficient
-          title: Tensorflow/Keras
+   #     - time: Proeficient
+    #      title: Tensorflow/Keras
 
-        - time: Proeficient
-          title: Pytorch
+     #   - time: Proeficient
+      #    title: Pytorch
 
-        - time: Proeficient
-          title: Pandas
+       # - time: Proeficient
+        # title: Pandas
 
-        - time: Proeficient
-          title: Sckit-Learn
+        #- time: Proeficient
+         # title: Sckit-Learn
 
-        - time: Proeficient
-          title: NLTK
+       # - time: Proeficient
+          #title: NLTK
 
-        - time: Proeficient
-          title:SpaCy
+        #- time: Proeficient
+         # title:SpaCy
 
-        - time: Moderate
-          title: Git/GitHub
+        #- time: Moderate
+         # title: Git/GitHub
 
-        - time: Moderate
-          title: MATLAB
+        #- time: Moderate
+         # title: MATLAB
 
-        - time: Moderate
-          title: C/C++
+       # - time: Moderate
+        #  title: C/C++
           
-        - time: Moderate
-          title: Arduino Controller
+       # - time: Moderate
+        #  title: Arduino Controller
 
-        - time: Moderate
-          title: Linux
+       # - time: Moderate
+        #  title: Linux
        
 education:
     - degree: Applied Scientists Intern at Amazon AWS
