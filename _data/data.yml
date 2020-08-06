@@ -7,19 +7,19 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Biagio Brattoli
-    tagline: Computer Vision and Machine Learning researcher
+    name: Jhonathan Ortiz
+    tagline: Natural Language Processing and Machine Learning Student
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: jhonathanortizh@gmail.com
     phone: +58 4162655779
-    website: bbrattoli.github.io/publications/ #do not add http://
-    linkedin: jhonathanortizh
+    website: medium.com/Jhonathanortizh #do not add http://
+    linkedin: Jhonathan Ortiz
     github: JhonathanOrtiz
     gitlab:
     bitbucket:
-    twitter: '@JhonthanOrtiz'
+    twitter: '@jhonthnortizh'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -31,28 +31,23 @@ sidebar:
       - idiom: Spanish
         level: Native
 
-      - idiom: 
-        level: 
-
     interests:
-      - item: Learn
+      - item: Natural Language Processing
         link:
 
-      - item: Learn
+      - item: Language Modeling
         link:
 
-      - item: Learn
+      - item: Language Parsing
         link:
 
 career-profile:
-    title: Career Profile
+    title: Profile
     summary: |
-      After a double master degree at KTH (Stochkolm, Sweden) and Politecnico di Torino (Torino, Italy), 
-      I pursued my passion for Computer Vision as researcher in the Heidelberg Collaboratory for Image procession, one of the biggest research group in Germany in the field, under the supervision of Bjoern Ommer.
-      Lately I successfully completed an internship at AWS in Pasadena under the supervision of Pietro Perona.
-
+      Electronic Engineer applied to Automation and Control senior student, actually i'm learning to develop Natural Laguage Processing algorithm applied to several study cases with researcher on multimodal learning as mentor and looking for an intern position and thus improve my skills. 
+      Proeficient in Python, Machine Learning and/Deep Learning and frameworks such as Scikit-Learn, TensorFlow and Pytorch.   
 news:
-    title: News
+    title: 
     intro: |
         
     
