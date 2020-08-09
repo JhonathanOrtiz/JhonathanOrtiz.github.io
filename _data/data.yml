@@ -9,12 +9,12 @@ sidebar:
     # Profile information
     name: Jhonathan Ortiz
     tagline: Natural Language Processing and Machine Learning student
-    avatar: IMG_20200806_125552 #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: 79202015583.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: jhonathanortizh@gmail.com
     phone: +58 4162655779
-    website: medium.com/jhonathanortizh #do not add http://
+    website: medium.com/@jhonathanortizh #do not add http://
     linkedin: Jhonathan Ortiz
     github: JhonathanOrtiz
     gitlab:
