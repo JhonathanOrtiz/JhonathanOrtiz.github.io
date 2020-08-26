@@ -23,8 +23,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    skils:
-        title: Skill and Proficiency
+   
 
     languages:
       - idiom: English
@@ -40,14 +39,23 @@ sidebar:
       - item: Natural Language Processing
         link:
 
-      - item: Language Modeling 
-      
+      - item: Language Modeling      
         link:
+     
+      - item: Natural Language Understanding
+        link:
+
+      - item: Data Mining
+        link:
+
+      - item: Data Sience
+        link:
+        
 
 career-profile:
     title: Career Profile
     summary: |
-      Electronic Engineer applied to Automation and Control senior student, actually i’m learning to develop Natural Laguage Processing algorithm applied to several study cases with researcher on multimodal learning as mentor and looking for an intern position and thus improve my skills. Proeficient in Python, Machine Learning and/Deep Learning and frameworks such as Scikit-Learn, TensorFlow and Pytorch.
+      Senior student of Electronic Engineer applied to Automation and Control, currently i’m learning to develop Natural Laguage Processing algorithm applied to several study cases with researcher on multimodal learning as mentor and looking for an intern position and thus improve my skills. Proeficient in Python, Machine Learning and/Deep Learning and frameworks such as Scikit-Learn, TensorFlow and Pytorch.
       
 #news:
 #    title: News
@@ -220,20 +228,16 @@ projects:
         link: "#"
         tagline: "Translation Image-Image"
 
-      - title: Natural Language Processing
+      - title: Personal Shopper Assistants / Data analisys
         link: "#"
-        tagline: "Notebook Series About NLP"
-
-      - title: Algebra Series
-        link: "#"
-        tagline: "Notebook series about algebra from geometric viewpoint implemented and vizualized"
+        tagline: "I am working on a e-commerce platform  where I am co-founder, and Machine Learning Engineer, Focused on virtual assistant design and data analysis"
 
       - title: Math word Problems
         link: "#"
         tagline: "SeqSeq implementation for math words problems"
 
 publications:
-    title: Articles
+    title: Medium Articles
     intro: |
       
     papers:
@@ -247,7 +251,7 @@ publications:
 
       - title: "Math Word Problems Dataset (Spanish Version)"
         authors: J. Ortiz
-        conference: ECCV, 2018
+        #conference: ECCV, 2018
 
      # - title: "LSTM Self-Supervision for Detailed Behavior Analysis"
      #   authors: B. Brattoli*, U. Buechler*, A. Wahl, M. Schwab, B. Ommer
