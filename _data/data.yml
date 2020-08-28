@@ -214,26 +214,23 @@ education:
 
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro:
 
     assignments:
       - title: Deep Q Network
-        link: "#hook"
+        link: "https://github.com/JhonathanOrtiz/Reinforcement-Learning-DQN"
         tagline: "DQN algorithm implementation for an agent that learn to play Space Invaders."
 
       - title: Pix2Pix
-        link: "#"
+        link: "https://github.com/JhonathanOrtiz/Pix2Pix"
         tagline: "Translation Image-Image"
 
       - title: Personal Shopper Assistants / Data analisys
-        link: "#"
+        link: "https://github.com/JhonathanOrtiz/ALLe-commerce"
         tagline: "I am working on a e-commerce platform  where I am co-founder, and Machine Learning Engineer, Focused on virtual assistant design and data analysis"
 
       - title: Math word Problems
-        link: "#"
+        link: "https://github.com/JhonathanOrtiz/MathWordProblem"
         tagline: "SeqSeq implementation for math words problems"
 
 publications:
@@ -245,9 +242,6 @@ publications:
         authors: J. Ortiz
         #conference: CVPR, 2020
         
-      - title: "Neural Neworks for sequences data type (Foundations)"
-        authors: J. Ortiz
-        #conference: ICCV, 2019
 
       - title: "Math Word Problems Dataset (Spanish Version)"
         authors: J. Ortiz
@@ -295,8 +289,6 @@ skills:
       - name: C/C++
         level: 25%
         
-      - name: Google CLoud
-        level: 30%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
