@@ -281,12 +281,12 @@ skills:
         level: 70%
         
       - name: Google CLoud
+        level: 50%
+
+      - name: PostgreSQL
         level: 30%
 
-      - name: Matlab
-        level: 25%
-
-      - name: C/C++
+      - name: MatLab
         level: 25%
         
 
