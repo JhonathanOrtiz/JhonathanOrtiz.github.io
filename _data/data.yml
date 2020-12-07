@@ -232,6 +232,10 @@ projects:
       - title: Math word Problems
         link: "https://github.com/JhonathanOrtiz/MathWordProblem"
         tagline: "SeqSeq implementation for math words problems"
+       
+      - title: Kaggle InClass Competition
+        link: "https://www.kaggle.com/c/aichallenge2020/leaderboard"
+        tagline: "2nd place classifying between real and generated tweets"
 
 publications:
     title: Medium Articles
@@ -279,15 +283,19 @@ skills:
 
       - name: Tensorflow
         level: 70%
+
+      - name: Selenium/scrapy/BeutifulSoup (WebScrapping)
+        level: 70%
         
-      - name: Google CLoud
+      - name: PostgresSQL / SQLalchemy
         level: 50%
 
-      - name: PostgreSQL
+      - name: GoogleCloud
         level: 30%
 
-      - name: MatLab
+      - name: Matlab
         level: 25%
+     
         
 
 footer: >
